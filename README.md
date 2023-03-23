@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/AyGemuy.png?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://telegra.ph/file/c9dd426f50a1a6e1ce631.jpg?size=500" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 
 
 </p>
